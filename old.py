@@ -1,14 +1,4 @@
-#!/usr/bin/env python3
-"""
-Web Table Scraper and LLM Document Generator
 
-This script takes a URL as input, scrapes all tables from the webpage,
-uses multiple LLM APIs to generate paragraph-like content for each table row,
-and creates separate PDF documents for each LLM model.
-
-Author: AI Assistant
-Date: 2025
-"""
 
 import os
 import sys
